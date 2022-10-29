@@ -16,7 +16,7 @@ As you can see in the picture below.
 
 ![App Screenshot](https://i.imgur.com/MLfpcNp.png)
 
-The final output file could be seen in ###PUT LINK OF CSV####
+The final output file could be seen in /Crawlers/amazon_headphones/amazon_headphones.csv
 
 
 # Part B - Creating a website
