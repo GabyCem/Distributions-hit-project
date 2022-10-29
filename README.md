@@ -1,6 +1,7 @@
 
 # Distributions-hit
 
+
 In this project we will predict the choices made by people given a limited amout of data using machine learning.
 The project is divided into three parts: 
 
