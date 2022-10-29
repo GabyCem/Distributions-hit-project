@@ -1,0 +1,3409 @@
+[{
+  "_id": {
+    "$oid": "634e945e5a2cc7c2079a5aa1"
+  },
+  "first_name": "Itay",
+  "last_name": "Cohen",
+  "age": 25,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Shoham",
+  "choicePicked1": "test-48-R",
+  "choiceNotPicked1": "test-48-L",
+  "choicePicked2": "test-23-R",
+  "choiceNotPicked2": "test-23-L",
+  "choicePicked3": "test-16-L",
+  "choiceNotPicked3": "test-16-R",
+  "choicePicked4": "test-32-R",
+  "choiceNotPicked4": "test-32-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-36-L",
+  "choiceNotPicked6": "test-36-R",
+  "choicePicked7": "test-33-R",
+  "choiceNotPicked7": "test-33-L",
+  "choicePicked8": "test-40-R",
+  "choiceNotPicked8": "test-40-L",
+  "choicePicked9": "test-51-R",
+  "choiceNotPicked9": "test-51-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The percentage of people that gave a higher rating",
+  "choice_affect": "If a product had a lower rating than an other product I would not choose the first one",
+  "average_ratings": "I would like to have the distributions to settle equal averages",
+  "useful_information": "How many people -L a rating, Release date, price, number of units sold, selling points",
+  "technical_issues": "No",
+  "time_taken": 130,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666094174500"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666094174500"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634ef05f6c1e1b2ce3ec485f"
+  },
+  "first_name": "Yoel",
+  "last_name": "Meir",
+  "age": 23,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Yehud",
+  "choicePicked1": "test-7-L",
+  "choiceNotPicked1": "test-7-R",
+  "choicePicked2": "test-4-L",
+  "choiceNotPicked2": "test-4-R",
+  "choicePicked3": "test-12-L",
+  "choiceNotPicked3": "test-12-R",
+  "choicePicked4": "test-33-R",
+  "choiceNotPicked4": "test-33-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-39-L",
+  "choiceNotPicked6": "test-39-R",
+  "choicePicked7": "test-29-R",
+  "choiceNotPicked7": "test-29-L",
+  "choicePicked8": "test-44-R",
+  "choiceNotPicked8": "test-44-L",
+  "choicePicked9": "test-50-L",
+  "choiceNotPicked9": "test-50-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The higer rating",
+  "choice_affect": "I chose what was higher",
+  "average_ratings": "They are important",
+  "useful_information": "Comments of people about the product",
+  "technical_issues": "No",
+  "time_taken": 171,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666117727517"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666117727517"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634efa65e34dd2d7df96abc6"
+  },
+  "first_name": "Yossi",
+  "last_name": "Cohen",
+  "age": 26,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Southern District",
+  "city": "Ashdod",
+  "choicePicked1": "test-11-R",
+  "choiceNotPicked1": "test-11-L",
+  "choicePicked2": "test-52-L",
+  "choiceNotPicked2": "test-52-R",
+  "choicePicked3": "test-27-R",
+  "choiceNotPicked3": "test-27-L",
+  "choicePicked4": "test-45-L",
+  "choiceNotPicked4": "test-45-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-16-R",
+  "choiceNotPicked6": "test-16-L",
+  "choicePicked7": "test-14-R",
+  "choiceNotPicked7": "test-14-L",
+  "choicePicked8": "test-15-R",
+  "choiceNotPicked8": "test-15-L",
+  "choicePicked9": "test-2-R",
+  "choiceNotPicked9": "test-2-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "more 5 stars",
+  "choice_affect": "It affected by choosing mostly 5 stars",
+  "average_ratings": "they are important",
+  "useful_information": "a high rating is the most important",
+  "technical_issues": "no issues",
+  "time_taken": 342,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666120293866"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666120293866"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6350042616c7cc2f3c7bce4f"
+  },
+  "first_name": "Alon",
+  "last_name": "Telner",
+  "age": 24,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Ramat Gan",
+  "choicePicked1": "test-22-R",
+  "choiceNotPicked1": "test-22-L",
+  "choicePicked2": "test-27-R",
+  "choiceNotPicked2": "test-27-L",
+  "choicePicked3": "test-24-L",
+  "choiceNotPicked3": "test-24-R",
+  "choicePicked4": "test-5-L",
+  "choiceNotPicked4": "test-5-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-15-L",
+  "choiceNotPicked6": "test-15-R",
+  "choicePicked7": "test-20-R",
+  "choiceNotPicked7": "test-20-L",
+  "choicePicked8": "test-51-L",
+  "choiceNotPicked8": "test-51-R",
+  "choicePicked9": "test-37-R",
+  "choiceNotPicked9": "test-37-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Ratings",
+  "choice_affect": "Highely",
+  "average_ratings": "They are important",
+  "useful_information": "Quality of the products",
+  "technical_issues": "I didn’t",
+  "time_taken": 405,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666188326779"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666188326779"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6350071a16c7cc2f3c7bce51"
+  },
+  "first_name": "Noga",
+  "last_name": "Meir",
+  "age": 55,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Rosh Ha‘Ayin",
+  "choicePicked1": "test-31-R",
+  "choiceNotPicked1": "test-31-L",
+  "choicePicked2": "test-13-L",
+  "choiceNotPicked2": "test-13-R",
+  "choicePicked3": "test-1-R",
+  "choiceNotPicked3": "test-1-L",
+  "choicePicked4": "test-37-L",
+  "choiceNotPicked4": "test-37-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-2-R",
+  "choiceNotPicked6": "test-2-L",
+  "choicePicked7": "test-4-L",
+  "choiceNotPicked7": "test-4-R",
+  "choicePicked8": "test-33-R",
+  "choiceNotPicked8": "test-33-L",
+  "choicePicked9": "test-5-L",
+  "choiceNotPicked9": "test-5-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Rating",
+  "choice_affect": "Who that have the most 5 stars",
+  "average_ratings": "Rating distribution is important",
+  "useful_information": "I dont know",
+  "technical_issues": "No",
+  "time_taken": 373,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666189082225"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666189082225"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63501cabe803505013b71dbf"
+  },
+  "first_name": "Yarden",
+  "last_name": "Levy",
+  "age": 56,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Ramat Gan",
+  "choicePicked1": "test-2-R",
+  "choiceNotPicked1": "test-2-L",
+  "choicePicked2": "test-27-R",
+  "choiceNotPicked2": "test-27-L",
+  "choicePicked3": "test-41-L",
+  "choiceNotPicked3": "test-41-R",
+  "choicePicked4": "test-31-L",
+  "choiceNotPicked4": "test-31-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-32-R",
+  "choiceNotPicked6": "test-32-L",
+  "choicePicked7": "test-51-R",
+  "choiceNotPicked7": "test-51-L",
+  "choicePicked8": "test-1-L",
+  "choiceNotPicked8": "test-1-R",
+  "choicePicked9": "test-17-R",
+  "choiceNotPicked9": "test-17-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "ן consider the satisfaction of other client from the product.",
+  "choice_affect": "Very much. I prefer to buy product that  give the most effective tools",
+  "average_ratings": "I prefer the best",
+  "useful_information": "It was help me to know what were the criterion that make the other client made there choices.",
+  "technical_issues": "No, I didn't. good luck!",
+  "time_taken": 1069,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666194603344"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666194603344"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63526c0b2583242eb47d13eb"
+  },
+  "first_name": "Gaby",
+  "last_name": "Cembal",
+  "age": 30,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Ra'anana",
+  "choicePicked1": "test-3-L",
+  "choiceNotPicked1": "test-3-R",
+  "choicePicked2": "test-12-L",
+  "choiceNotPicked2": "test-12-R",
+  "choicePicked3": "test-39-R",
+  "choiceNotPicked3": "test-39-L",
+  "choicePicked4": "test-47-R",
+  "choiceNotPicked4": "test-47-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-7-R",
+  "choiceNotPicked6": "test-7-L",
+  "choicePicked7": "test-54-L",
+  "choiceNotPicked7": "test-54-R",
+  "choicePicked8": "test-34-R",
+  "choiceNotPicked8": "test-34-L",
+  "choicePicked9": "test-11-R",
+  "choiceNotPicked9": "test-11-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "No",
+  "choice_affect": "No",
+  "average_ratings": "No",
+  "useful_information": "No",
+  "technical_issues": "No",
+  "time_taken": 55,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666345995476"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666345995476"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63526e2e2583242eb47d13ed"
+  },
+  "first_name": "Jesus",
+  "last_name": "Christ",
+  "age": 30,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Jerusalem District",
+  "city": "Jerusalem",
+  "choicePicked1": "test-2-L",
+  "choiceNotPicked1": "test-2-R",
+  "choicePicked2": "test-8-R",
+  "choiceNotPicked2": "test-8-L",
+  "choicePicked3": "test-11-R",
+  "choiceNotPicked3": "test-11-L",
+  "choicePicked4": "test-37-R",
+  "choiceNotPicked4": "test-37-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-46-L",
+  "choiceNotPicked6": "test-46-R",
+  "choicePicked7": "test-43-R",
+  "choiceNotPicked7": "test-43-L",
+  "choicePicked8": "test-53-R",
+  "choiceNotPicked8": "test-53-L",
+  "choicePicked9": "test-40-R",
+  "choiceNotPicked9": "test-40-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Shalom",
+  "choice_affect": "Le",
+  "average_ratings": "Kulam",
+  "useful_information": "F",
+  "technical_issues": "U",
+  "time_taken": 47,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666346542823"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666346542823"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63529cb4af38054d599403bf"
+  },
+  "first_name": "David",
+  "last_name": "Yanoshi",
+  "age": 22,
+  "gender": "male",
+  "country": "Germany",
+  "state": "Baden-Württemberg",
+  "city": "Aach",
+  "choicePicked1": "test-39-R",
+  "choiceNotPicked1": "test-39-L",
+  "choicePicked2": "test-30-R",
+  "choiceNotPicked2": "test-30-L",
+  "choicePicked3": "test-48-R",
+  "choiceNotPicked3": "test-48-L",
+  "choicePicked4": "test-32-L",
+  "choiceNotPicked4": "test-32-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-2-L",
+  "choiceNotPicked6": "test-2-R",
+  "choicePicked7": "test-38-R",
+  "choiceNotPicked7": "test-38-L",
+  "choicePicked8": "test-14-L",
+  "choiceNotPicked8": "test-14-R",
+  "choicePicked9": "test-47-R",
+  "choiceNotPicked9": "test-47-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "a",
+  "choice_affect": "a",
+  "average_ratings": "a",
+  "useful_information": "a",
+  "technical_issues": "a",
+  "time_taken": 24,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666358452903"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666358452903"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63529ce6af38054d599403c1"
+  },
+  "first_name": "Meytal",
+  "last_name": "Cohen",
+  "age": 44,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Ramat Gan",
+  "choicePicked1": "test-4-L",
+  "choiceNotPicked1": "test-4-R",
+  "choicePicked2": "test-1-R",
+  "choiceNotPicked2": "test-1-L",
+  "choicePicked3": "test-44-L",
+  "choiceNotPicked3": "test-44-R",
+  "choicePicked4": "test-16-R",
+  "choiceNotPicked4": "test-16-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-5-L",
+  "choiceNotPicked6": "test-5-R",
+  "choicePicked7": "test-9-R",
+  "choiceNotPicked7": "test-9-L",
+  "choicePicked8": "test-15-R",
+  "choiceNotPicked8": "test-15-L",
+  "choicePicked9": "test-13-L",
+  "choiceNotPicked9": "test-13-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "How many percent say its good, 5 stars",
+  "choice_affect": "A lot, espacialy when say it good",
+  "average_ratings": "Very, if you want to buy anything, you want something good, that recommanded",
+  "useful_information": "Price, quality, variaty, colors,",
+  "technical_issues": "No",
+  "time_taken": 74,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666358502222"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666358502222"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353ea870f51d0d3decad608"
+  },
+  "first_name": "aa",
+  "last_name": "aa",
+  "age": 22,
+  "gender": "male",
+  "country": "Afghanistan",
+  "state": "Badakhshan",
+  "city": "Ashkāsham",
+  "choicePicked1": "test-46-R",
+  "choiceNotPicked1": "test-46-L",
+  "choicePicked2": "test-51-R",
+  "choiceNotPicked2": "test-51-L",
+  "choicePicked3": "test-40-R",
+  "choiceNotPicked3": "test-40-L",
+  "choicePicked4": "test-6-R",
+  "choiceNotPicked4": "test-6-L",
+  "choicePicked5": "wrong",
+  "choiceNotPicked5": "correct",
+  "choicePicked6": "test-2-R",
+  "choiceNotPicked6": "test-2-L",
+  "choicePicked7": "undefined-R",
+  "choiceNotPicked7": "undefined-L",
+  "choicePicked8": "test-33-R",
+  "choiceNotPicked8": "test-33-L",
+  "choicePicked9": "test-14-R",
+  "choiceNotPicked9": "test-14-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "aa",
+  "choice_affect": "aa",
+  "average_ratings": "aa",
+  "useful_information": "aa",
+  "technical_issues": "aa",
+  "time_taken": 31,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666443911042"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666443911042"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f1250f51d0d3decad60a"
+  },
+  "first_name": "Adam",
+  "last_name": "Mayer",
+  "age": 22,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Hod HaSharon",
+  "choicePicked1": "test-47-L",
+  "choiceNotPicked1": "test-47-R",
+  "choicePicked2": "test-26-R",
+  "choiceNotPicked2": "test-26-L",
+  "choicePicked3": "test-52-R",
+  "choiceNotPicked3": "test-52-L",
+  "choicePicked4": "test-1-R",
+  "choiceNotPicked4": "test-1-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-14-L",
+  "choiceNotPicked6": "test-14-R",
+  "choicePicked7": "test-37-R",
+  "choiceNotPicked7": "test-37-L",
+  "choicePicked8": "test-51-L",
+  "choiceNotPicked8": "test-51-R",
+  "choicePicked9": "test-46-L",
+  "choiceNotPicked9": "test-46-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "How it looked",
+  "choice_affect": "It didn't",
+  "average_ratings": "No",
+  "useful_information": "Images",
+  "technical_issues": "No",
+  "time_taken": 74,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666445605306"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666445605306"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f18a0f51d0d3decad60c"
+  },
+  "first_name": "Achia",
+  "last_name": "Badichi",
+  "age": 29,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Southern District",
+  "city": "Lehavim",
+  "choicePicked1": "test-14-L",
+  "choiceNotPicked1": "test-14-R",
+  "choicePicked2": "test-45-R",
+  "choiceNotPicked2": "test-45-L",
+  "choicePicked3": "test-29-R",
+  "choiceNotPicked3": "test-29-L",
+  "choicePicked4": "test-35-R",
+  "choiceNotPicked4": "test-35-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-33-L",
+  "choiceNotPicked6": "test-33-R",
+  "choicePicked7": "test-26-R",
+  "choiceNotPicked7": "test-26-L",
+  "choicePicked8": "test-30-R",
+  "choiceNotPicked8": "test-30-L",
+  "choicePicked9": "test-1-R",
+  "choiceNotPicked9": "test-1-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "the consistency",
+  "choice_affect": "When it was very different it was easy",
+  "average_ratings": "Yes",
+  "useful_information": "Price",
+  "technical_issues": "No",
+  "time_taken": 58,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666445706994"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666445706994"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f1ea0f51d0d3decad60e"
+  },
+  "first_name": "Shaked",
+  "last_name": "Akiyan",
+  "age": 26,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Southern District",
+  "city": "Qiryat Gat",
+  "choicePicked1": "test-16-L",
+  "choiceNotPicked1": "test-16-R",
+  "choicePicked2": "test-29-R",
+  "choiceNotPicked2": "test-29-L",
+  "choicePicked3": "test-53-R",
+  "choiceNotPicked3": "test-53-L",
+  "choicePicked4": "test-28-R",
+  "choiceNotPicked4": "test-28-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-30-R",
+  "choiceNotPicked6": "test-30-L",
+  "choicePicked7": "test-50-R",
+  "choiceNotPicked7": "test-50-L",
+  "choicePicked8": "test-2-R",
+  "choiceNotPicked8": "test-2-L",
+  "choicePicked9": "test-18-R",
+  "choiceNotPicked9": "test-18-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The approximate average of each table",
+  "choice_affect": "Very mutch",
+  "average_ratings": "Average ratings",
+  "useful_information": "Reviews",
+  "technical_issues": "No. Everything went smooth",
+  "time_taken": 22,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666445802889"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666445802889"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f2710f51d0d3decad612"
+  },
+  "first_name": "Alexis",
+  "last_name": "Markov",
+  "age": 31,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Modi‘in Makkabbim Re‘ut",
+  "choicePicked1": "test-3-L",
+  "choiceNotPicked1": "test-3-R",
+  "choicePicked2": "test-4-R",
+  "choiceNotPicked2": "test-4-L",
+  "choicePicked3": "test-41-R",
+  "choiceNotPicked3": "test-41-L",
+  "choicePicked4": "test-25-L",
+  "choiceNotPicked4": "test-25-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-45-R",
+  "choiceNotPicked6": "test-45-L",
+  "choicePicked7": "test-17-R",
+  "choiceNotPicked7": "test-17-L",
+  "choicePicked8": "test-23-R",
+  "choiceNotPicked8": "test-23-L",
+  "choicePicked9": "test-30-L",
+  "choiceNotPicked9": "test-30-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "What looked better",
+  "choice_affect": "I chose the one that looked better",
+  "average_ratings": "No Average is better",
+  "useful_information": "How it looks",
+  "technical_issues": "No",
+  "time_taken": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666445937384"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666445937384"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f2d50f51d0d3decad614"
+  },
+  "first_name": "Barry",
+  "last_name": "Levy",
+  "age": 30,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Ra'anana",
+  "choicePicked1": "test-44-R",
+  "choiceNotPicked1": "test-44-L",
+  "choicePicked2": "test-32-L",
+  "choiceNotPicked2": "test-32-R",
+  "choicePicked3": "test-17-R",
+  "choiceNotPicked3": "test-17-L",
+  "choicePicked4": "test-11-R",
+  "choiceNotPicked4": "test-11-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-9-R",
+  "choiceNotPicked6": "test-9-L",
+  "choicePicked7": "test-37-R",
+  "choiceNotPicked7": "test-37-L",
+  "choicePicked8": "test-35-R",
+  "choiceNotPicked8": "test-35-L",
+  "choicePicked9": "test-53-R",
+  "choiceNotPicked9": "test-53-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The ones that had a lot of 1 star I did not choose",
+  "choice_affect": "It did not",
+  "average_ratings": "No",
+  "useful_information": "The quality",
+  "technical_issues": "no",
+  "time_taken": 60,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446037279"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446037279"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f30a0f51d0d3decad616"
+  },
+  "first_name": "Vered",
+  "last_name": "Akiyan",
+  "age": 50,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Southern District",
+  "city": "Ashdod",
+  "choicePicked1": "test-28-R",
+  "choiceNotPicked1": "test-28-L",
+  "choicePicked2": "test-45-R",
+  "choiceNotPicked2": "test-45-L",
+  "choicePicked3": "test-7-L",
+  "choiceNotPicked3": "test-7-R",
+  "choicePicked4": "test-38-L",
+  "choiceNotPicked4": "test-38-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-35-R",
+  "choiceNotPicked6": "test-35-L",
+  "choicePicked7": "test-51-L",
+  "choiceNotPicked7": "test-51-R",
+  "choicePicked8": "test-32-L",
+  "choiceNotPicked8": "test-32-R",
+  "choicePicked9": "test-21-R",
+  "choiceNotPicked9": "test-21-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The averages",
+  "choice_affect": "Affective",
+  "average_ratings": "Average",
+  "useful_information": "Pictures",
+  "technical_issues": "No",
+  "time_taken": 17,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446090732"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446090732"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f30b0f51d0d3decad618"
+  },
+  "first_name": "Vered",
+  "last_name": "Akiyan",
+  "age": 50,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Southern District",
+  "city": "Ashdod",
+  "choicePicked1": "test-28-R",
+  "choiceNotPicked1": "test-28-L",
+  "choicePicked2": "test-45-R",
+  "choiceNotPicked2": "test-45-L",
+  "choicePicked3": "test-7-L",
+  "choiceNotPicked3": "test-7-R",
+  "choicePicked4": "test-38-L",
+  "choiceNotPicked4": "test-38-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-35-R",
+  "choiceNotPicked6": "test-35-L",
+  "choicePicked7": "test-51-L",
+  "choiceNotPicked7": "test-51-R",
+  "choicePicked8": "test-32-L",
+  "choiceNotPicked8": "test-32-R",
+  "choicePicked9": "test-21-R",
+  "choiceNotPicked9": "test-21-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The averages",
+  "choice_affect": "Affective",
+  "average_ratings": "Average",
+  "useful_information": "Pictures",
+  "technical_issues": "No",
+  "time_taken": 17,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446091331"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446091331"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f3320f51d0d3decad61a"
+  },
+  "first_name": "Ronen",
+  "last_name": "Davidi",
+  "age": 37,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Rishon LeẔiyyon",
+  "choicePicked1": "test-45-R",
+  "choiceNotPicked1": "test-45-L",
+  "choicePicked2": "test-53-R",
+  "choiceNotPicked2": "test-53-L",
+  "choicePicked3": "test-38-R",
+  "choiceNotPicked3": "test-38-L",
+  "choicePicked4": "test-46-L",
+  "choiceNotPicked4": "test-46-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-43-L",
+  "choiceNotPicked6": "test-43-R",
+  "choicePicked7": "test-11-R",
+  "choiceNotPicked7": "test-11-L",
+  "choicePicked8": "test-31-L",
+  "choiceNotPicked8": "test-31-R",
+  "choicePicked9": "test-5-R",
+  "choiceNotPicked9": "test-5-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The more 4 or 5 stars",
+  "choice_affect": "Very much",
+  "average_ratings": "Its important",
+  "useful_information": "The number of people voting for every star",
+  "technical_issues": "no",
+  "time_taken": 56,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446130062"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446130062"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f3400f51d0d3decad61c"
+  },
+  "first_name": "Ben",
+  "last_name": "Fabian",
+  "age": 27,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Herzliya",
+  "choicePicked1": "test-45-R",
+  "choiceNotPicked1": "test-45-L",
+  "choicePicked2": "test-42-R",
+  "choiceNotPicked2": "test-42-L",
+  "choicePicked3": "test-1-R",
+  "choiceNotPicked3": "test-1-L",
+  "choicePicked4": "test-19-R",
+  "choiceNotPicked4": "test-19-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-48-R",
+  "choiceNotPicked6": "test-48-L",
+  "choicePicked7": "test-53-R",
+  "choiceNotPicked7": "test-53-L",
+  "choicePicked8": "test-23-R",
+  "choiceNotPicked8": "test-23-L",
+  "choicePicked9": "test-31-L",
+  "choiceNotPicked9": "test-31-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I dont know",
+  "choice_affect": "It did not",
+  "average_ratings": "This is more intresting",
+  "useful_information": "No other information needed",
+  "technical_issues": "No",
+  "time_taken": 71,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446144692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446144692"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f3ae0f51d0d3decad61e"
+  },
+  "first_name": "David",
+  "last_name": "Nahum",
+  "age": 30,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Givatayim",
+  "choicePicked1": "test-5-L",
+  "choiceNotPicked1": "test-5-R",
+  "choicePicked2": "test-41-R",
+  "choiceNotPicked2": "test-41-L",
+  "choicePicked3": "test-8-L",
+  "choiceNotPicked3": "test-8-R",
+  "choicePicked4": "test-32-R",
+  "choiceNotPicked4": "test-32-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-1-L",
+  "choiceNotPicked6": "test-1-R",
+  "choicePicked7": "test-49-R",
+  "choiceNotPicked7": "test-49-L",
+  "choicePicked8": "test-12-R",
+  "choiceNotPicked8": "test-12-L",
+  "choicePicked9": "test-2-L",
+  "choiceNotPicked9": "test-2-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "if their were a lot of spikes I did not choose it",
+  "choice_affect": "It did not",
+  "average_ratings": "No",
+  "useful_information": "pictures of the products",
+  "technical_issues": "no",
+  "time_taken": 26,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446254059"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446254059"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f3f30f51d0d3decad620"
+  },
+  "first_name": "Kobi",
+  "last_name": "Yehezkel",
+  "age": 58,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Yavné",
+  "choicePicked1": "test-2-L",
+  "choiceNotPicked1": "test-2-R",
+  "choicePicked2": "test-17-R",
+  "choiceNotPicked2": "test-17-L",
+  "choicePicked3": "test-20-R",
+  "choiceNotPicked3": "test-20-L",
+  "choicePicked4": "test-44-R",
+  "choiceNotPicked4": "test-44-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-25-L",
+  "choiceNotPicked6": "test-25-R",
+  "choicePicked7": "test-36-R",
+  "choiceNotPicked7": "test-36-L",
+  "choicePicked8": "test-32-L",
+  "choiceNotPicked8": "test-32-R",
+  "choicePicked9": "test-50-L",
+  "choiceNotPicked9": "test-50-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Ok",
+  "choice_affect": "Affect",
+  "average_ratings": "Important",
+  "useful_information": "No",
+  "technical_issues": "No",
+  "time_taken": 37,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446323016"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446323016"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f4120f51d0d3decad622"
+  },
+  "first_name": "Eli",
+  "last_name": "Hasson",
+  "age": 30,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Ra'anana",
+  "choicePicked1": "test-47-L",
+  "choiceNotPicked1": "test-47-R",
+  "choicePicked2": "test-27-R",
+  "choiceNotPicked2": "test-27-L",
+  "choicePicked3": "test-24-L",
+  "choiceNotPicked3": "test-24-R",
+  "choicePicked4": "test-4-R",
+  "choiceNotPicked4": "test-4-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-1-R",
+  "choiceNotPicked6": "test-1-L",
+  "choicePicked7": "test-8-L",
+  "choiceNotPicked7": "test-8-R",
+  "choicePicked8": "test-23-R",
+  "choiceNotPicked8": "test-23-L",
+  "choicePicked9": "test-36-R",
+  "choiceNotPicked9": "test-36-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The ones that looked better",
+  "choice_affect": "I dont know",
+  "average_ratings": "Yes",
+  "useful_information": "prices would affect my choice",
+  "technical_issues": "No",
+  "time_taken": 68,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446354729"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446354729"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f4be0f51d0d3decad624"
+  },
+  "first_name": "Elad",
+  "last_name": "Znati",
+  "age": 34,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Kfar Saba",
+  "choicePicked1": "test-54-L",
+  "choiceNotPicked1": "test-54-R",
+  "choicePicked2": "test-6-L",
+  "choiceNotPicked2": "test-6-R",
+  "choicePicked3": "test-3-L",
+  "choiceNotPicked3": "test-3-R",
+  "choicePicked4": "test-45-R",
+  "choiceNotPicked4": "test-45-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-38-R",
+  "choiceNotPicked6": "test-38-L",
+  "choicePicked7": "test-49-R",
+  "choiceNotPicked7": "test-49-L",
+  "choicePicked8": "test-39-R",
+  "choiceNotPicked8": "test-39-L",
+  "choicePicked9": "test-33-R",
+  "choiceNotPicked9": "test-33-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "How the graph looked",
+  "choice_affect": "I chose the ones with more spikes in the high ratings",
+  "average_ratings": "Better with average",
+  "useful_information": "Nothing",
+  "technical_issues": "No",
+  "time_taken": 81,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446526554"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446526554"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f51e0f51d0d3decad626"
+  },
+  "first_name": "Gilad",
+  "last_name": "Brudner",
+  "age": 30,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Ra'anana",
+  "choicePicked1": "test-21-R",
+  "choiceNotPicked1": "test-21-L",
+  "choicePicked2": "test-24-L",
+  "choiceNotPicked2": "test-24-R",
+  "choicePicked3": "test-29-R",
+  "choiceNotPicked3": "test-29-L",
+  "choicePicked4": "test-36-R",
+  "choiceNotPicked4": "test-36-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-32-L",
+  "choiceNotPicked6": "test-32-R",
+  "choicePicked7": "test-47-L",
+  "choiceNotPicked7": "test-47-R",
+  "choicePicked8": "test-19-R",
+  "choiceNotPicked8": "test-19-L",
+  "choicePicked9": "test-4-L",
+  "choiceNotPicked9": "test-4-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I dont know",
+  "choice_affect": "what ever felt -R",
+  "average_ratings": "No",
+  "useful_information": "images of the products",
+  "technical_issues": "no",
+  "time_taken": 56,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446622555"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446622555"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f6120f51d0d3decad628"
+  },
+  "first_name": "Hadar",
+  "last_name": "Pratt",
+  "age": 31,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Givatayim",
+  "choicePicked1": "test-1-R",
+  "choiceNotPicked1": "test-1-L",
+  "choicePicked2": "test-32-R",
+  "choiceNotPicked2": "test-32-L",
+  "choicePicked3": "test-20-R",
+  "choiceNotPicked3": "test-20-L",
+  "choicePicked4": "test-30-L",
+  "choiceNotPicked4": "test-30-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-4-R",
+  "choiceNotPicked6": "test-4-L",
+  "choicePicked7": "test-35-R",
+  "choiceNotPicked7": "test-35-L",
+  "choicePicked8": "test-3-L",
+  "choiceNotPicked8": "test-3-R",
+  "choicePicked9": "test-40-L",
+  "choiceNotPicked9": "test-40-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I dont understand the question",
+  "choice_affect": "I dont know, just what looked -R for me",
+  "average_ratings": "Average is better to understand the quality",
+  "useful_information": "pictures of the items",
+  "technical_issues": "no",
+  "time_taken": 89,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446866574"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446866574"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f6860f51d0d3decad62a"
+  },
+  "first_name": "Ido",
+  "last_name": "Israeli",
+  "age": 35,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Tel Aviv",
+  "choicePicked1": "test-31-L",
+  "choiceNotPicked1": "test-31-R",
+  "choicePicked2": "test-32-R",
+  "choiceNotPicked2": "test-32-L",
+  "choicePicked3": "test-33-L",
+  "choiceNotPicked3": "test-33-R",
+  "choicePicked4": "test-1-R",
+  "choiceNotPicked4": "test-1-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-22-R",
+  "choiceNotPicked6": "test-22-L",
+  "choicePicked7": "test-53-R",
+  "choiceNotPicked7": "test-53-L",
+  "choicePicked8": "test-15-L",
+  "choiceNotPicked8": "test-15-R",
+  "choicePicked9": "test-42-L",
+  "choiceNotPicked9": "test-42-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "what it felt like the -R one",
+  "choice_affect": "dont know",
+  "average_ratings": "No",
+  "useful_information": "nothing",
+  "technical_issues": "no",
+  "time_taken": 74,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666446982182"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666446982182"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f7600f51d0d3decad62c"
+  },
+  "first_name": "Inbal",
+  "last_name": "Silas",
+  "age": 25,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Southern District",
+  "city": "Beersheba",
+  "choicePicked1": "test-6-L",
+  "choiceNotPicked1": "test-6-R",
+  "choicePicked2": "test-53-R",
+  "choiceNotPicked2": "test-53-L",
+  "choicePicked3": "test-27-R",
+  "choiceNotPicked3": "test-27-L",
+  "choicePicked4": "test-47-L",
+  "choiceNotPicked4": "test-47-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-34-R",
+  "choiceNotPicked6": "test-34-L",
+  "choicePicked7": "test-1-R",
+  "choiceNotPicked7": "test-1-L",
+  "choicePicked8": "test-35-R",
+  "choiceNotPicked8": "test-35-L",
+  "choicePicked9": "test-51-L",
+  "choiceNotPicked9": "test-51-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "what is good",
+  "choice_affect": "i chose what i saw and is for me",
+  "average_ratings": "average is good help for me",
+  "useful_information": "pictures of the products",
+  "technical_issues": "yes, sometimes it took time to the graph to show",
+  "time_taken": 46,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666447200441"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666447200441"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f77f0f51d0d3decad62e"
+  },
+  "first_name": "Sapir",
+  "last_name": "Kadosi",
+  "age": 31,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Rishon LeẔiyyon",
+  "choicePicked1": "test-43-L",
+  "choiceNotPicked1": "test-43-R",
+  "choicePicked2": "test-50-L",
+  "choiceNotPicked2": "test-50-R",
+  "choicePicked3": "test-37-L",
+  "choiceNotPicked3": "test-37-R",
+  "choicePicked4": "test-24-L",
+  "choiceNotPicked4": "test-24-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-6-L",
+  "choiceNotPicked6": "test-6-R",
+  "choicePicked7": "test-30-R",
+  "choiceNotPicked7": "test-30-L",
+  "choicePicked8": "test-36-L",
+  "choiceNotPicked8": "test-36-R",
+  "choicePicked9": "test-9-R",
+  "choiceNotPicked9": "test-9-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Fine",
+  "choice_affect": "Ok",
+  "average_ratings": "Avrg",
+  "useful_information": "None",
+  "technical_issues": "No",
+  "time_taken": 77,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666447231619"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666447231619"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f7e70f51d0d3decad630"
+  },
+  "first_name": "Johnny",
+  "last_name": "Dassa",
+  "age": 30,
+  "gender": "male",
+  "country": "Argentina",
+  "state": "Buenos Aires Province",
+  "city": "Boedo",
+  "choicePicked1": "test-7-R",
+  "choiceNotPicked1": "test-7-L",
+  "choicePicked2": "test-16-L",
+  "choiceNotPicked2": "test-16-R",
+  "choicePicked3": "test-8-L",
+  "choiceNotPicked3": "test-8-R",
+  "choicePicked4": "test-54-L",
+  "choiceNotPicked4": "test-54-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-41-R",
+  "choiceNotPicked6": "test-41-L",
+  "choicePicked7": "test-34-R",
+  "choiceNotPicked7": "test-34-L",
+  "choicePicked8": "test-44-R",
+  "choiceNotPicked8": "test-44-L",
+  "choicePicked9": "test-20-R",
+  "choiceNotPicked9": "test-20-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "When the difference in the ratings was not so high I am assuming this is more reliable.",
+  "choice_affect": "Like I said before",
+  "average_ratings": "Average would certainly help",
+  "useful_information": "The price is a major factor",
+  "technical_issues": "No",
+  "time_taken": 13,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666447335290"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666447335290"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f82d0f51d0d3decad632"
+  },
+  "first_name": "Saya",
+  "last_name": "Elami",
+  "age": 25,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Ramat Gan",
+  "choicePicked1": "test-6-L",
+  "choiceNotPicked1": "test-6-R",
+  "choicePicked2": "test-3-L",
+  "choiceNotPicked2": "test-3-R",
+  "choicePicked3": "test-50-L",
+  "choiceNotPicked3": "test-50-R",
+  "choicePicked4": "test-42-L",
+  "choiceNotPicked4": "test-42-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-48-R",
+  "choiceNotPicked6": "test-48-L",
+  "choicePicked7": "test-51-L",
+  "choiceNotPicked7": "test-51-R",
+  "choicePicked8": "test-32-L",
+  "choiceNotPicked8": "test-32-R",
+  "choicePicked9": "test-4-L",
+  "choiceNotPicked9": "test-4-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "None",
+  "choice_affect": "None",
+  "average_ratings": "None",
+  "useful_information": "None",
+  "technical_issues": "None",
+  "time_taken": 84,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666447405652"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666447405652"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f89b0f51d0d3decad635"
+  },
+  "first_name": "Dan",
+  "last_name": "Ayache",
+  "age": 21,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Reẖovot",
+  "choicePicked1": "test-5-L",
+  "choiceNotPicked1": "test-5-R",
+  "choicePicked2": "test-10-R",
+  "choiceNotPicked2": "test-10-L",
+  "choicePicked3": "test-40-L",
+  "choiceNotPicked3": "test-40-R",
+  "choicePicked4": "test-12-L",
+  "choiceNotPicked4": "test-12-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-49-L",
+  "choiceNotPicked6": "test-49-R",
+  "choicePicked7": "test-53-R",
+  "choiceNotPicked7": "test-53-L",
+  "choicePicked8": "test-52-R",
+  "choiceNotPicked8": "test-52-L",
+  "choicePicked9": "test-33-R",
+  "choiceNotPicked9": "test-33-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "what is -R for me",
+  "choice_affect": "Same answer as before",
+  "average_ratings": "No",
+  "useful_information": "Pics",
+  "technical_issues": "no",
+  "time_taken": 5,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666447515844"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666447515844"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353f8d70f51d0d3decad637"
+  },
+  "first_name": "Raz",
+  "last_name": "Menachem",
+  "age": 24,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "H̱olon",
+  "choicePicked1": "test-30-R",
+  "choiceNotPicked1": "test-30-L",
+  "choicePicked2": "test-14-L",
+  "choiceNotPicked2": "test-14-R",
+  "choicePicked3": "test-18-R",
+  "choiceNotPicked3": "test-18-L",
+  "choicePicked4": "test-9-R",
+  "choiceNotPicked4": "test-9-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-7-R",
+  "choiceNotPicked6": "test-7-L",
+  "choicePicked7": "test-35-R",
+  "choiceNotPicked7": "test-35-L",
+  "choicePicked8": "test-12-L",
+  "choiceNotPicked8": "test-12-R",
+  "choicePicked9": "test-33-R",
+  "choiceNotPicked9": "test-33-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Dbxhd",
+  "choice_affect": "Durnf",
+  "average_ratings": "Jxjrn",
+  "useful_information": "Udjr",
+  "technical_issues": "Jdjx",
+  "time_taken": 8,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666447575952"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666447575952"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635405b80f51d0d3decad63c"
+  },
+  "first_name": "Betina",
+  "last_name": "Cembal",
+  "age": 52,
+  "gender": "female",
+  "country": "Afghanistan",
+  "state": "Badakhshan",
+  "city": "Ashkāsham",
+  "choicePicked1": "test-24-L",
+  "choiceNotPicked1": "test-24-R",
+  "choicePicked2": "test-52-L",
+  "choiceNotPicked2": "test-52-R",
+  "choicePicked3": "test-45-L",
+  "choiceNotPicked3": "test-45-R",
+  "choicePicked4": "test-4-L",
+  "choiceNotPicked4": "test-4-R",
+  "choicePicked5": "wrong",
+  "choiceNotPicked5": "correct",
+  "choicePicked6": "test-15-L",
+  "choiceNotPicked6": "test-15-R",
+  "choicePicked7": "test-2-L",
+  "choiceNotPicked7": "test-2-R",
+  "choicePicked8": "test-46-L",
+  "choiceNotPicked8": "test-46-R",
+  "choicePicked9": "test-3-L",
+  "choiceNotPicked9": "test-3-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I think that the graph with the results stable results in more interesting",
+  "choice_affect": "I follow for stable results",
+  "average_ratings": "I choiced the graph that not had a very high results",
+  "useful_information": "I decided to take the more interesting results",
+  "technical_issues": "No",
+  "time_taken": 450,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666450872915"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666450872915"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635422308e313048fbd691b1"
+  },
+  "first_name": "Eleuterio",
+  "last_name": "Gergueguerich",
+  "age": 30,
+  "gender": "male",
+  "country": "Azerbaijan",
+  "state": "Absheron District",
+  "city": "Ceyranbatan",
+  "choicePicked1": "0",
+  "choiceNotPicked1": "0",
+  "choicePicked2": "test-31-R",
+  "choiceNotPicked2": "test-31-L",
+  "choicePicked3": "test-36-R",
+  "choiceNotPicked3": "test-36-L",
+  "choicePicked4": "test-20-L",
+  "choiceNotPicked4": "test-20-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-6-L",
+  "choiceNotPicked6": "test-6-R",
+  "choicePicked7": "test-26-R",
+  "choiceNotPicked7": "test-26-L",
+  "choicePicked8": "test-4-L",
+  "choiceNotPicked8": "test-4-R",
+  "choicePicked9": "test-3-L",
+  "choiceNotPicked9": "test-3-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "My fate",
+  "choice_affect": "My Takziviti",
+  "average_ratings": "Of course",
+  "useful_information": "The best  u can get",
+  "technical_issues": "yes.....most 3,4 empty graphs :(",
+  "time_taken": 242,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666458161004"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666458161004"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6354608211e8b6b0a3d66d66"
+  },
+  "first_name": "Lia",
+  "last_name": "Celvak",
+  "age": 19,
+  "gender": "female",
+  "country": "Austria",
+  "state": "Burgenland",
+  "city": "Andau",
+  "choicePicked1": "test-29-L",
+  "choiceNotPicked1": "test-29-R",
+  "choicePicked2": "test-50-L",
+  "choiceNotPicked2": "test-50-R",
+  "choicePicked3": "test-8-L",
+  "choiceNotPicked3": "test-8-R",
+  "choicePicked4": "test-28-L",
+  "choiceNotPicked4": "test-28-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-2-L",
+  "choiceNotPicked6": "test-2-R",
+  "choicePicked7": "test-14-R",
+  "choiceNotPicked7": "test-14-L",
+  "choicePicked8": "test-22-R",
+  "choiceNotPicked8": "test-22-L",
+  "choicePicked9": "test-24-L",
+  "choiceNotPicked9": "test-24-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "E",
+  "choice_affect": "A",
+  "average_ratings": "A",
+  "useful_information": "A",
+  "technical_issues": "A",
+  "time_taken": 145,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666474114180"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666474114180"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635461f311e8b6b0a3d66d68"
+  },
+  "first_name": "Meital",
+  "last_name": "Litvak",
+  "age": 30,
+  "gender": "female",
+  "country": "Hungary",
+  "state": "Budapest",
+  "city": "Budapest",
+  "choicePicked1": "test-32-L",
+  "choiceNotPicked1": "test-32-R",
+  "choicePicked2": "test-3-L",
+  "choiceNotPicked2": "test-3-R",
+  "choicePicked3": "test-16-L",
+  "choiceNotPicked3": "test-16-R",
+  "choicePicked4": "test-37-L",
+  "choiceNotPicked4": "test-37-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-25-R",
+  "choiceNotPicked6": "test-25-L",
+  "choicePicked7": "test-33-R",
+  "choiceNotPicked7": "test-33-L",
+  "choicePicked8": "test-39-L",
+  "choiceNotPicked8": "test-39-R",
+  "choicePicked9": "test-19-R",
+  "choiceNotPicked9": "test-19-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I chose the products with the best results",
+  "choice_affect": "Whenever a product had higher scores in my opinion I chose it",
+  "average_ratings": "Yes it is important",
+  "useful_information": "Prices and pictures of the products",
+  "technical_issues": "No",
+  "time_taken": 191,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666474483716"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666474483716"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635694cd43fd37d87dc30244"
+  },
+  "first_name": "Yafit",
+  "last_name": "Telner",
+  "age": 55,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Ness Ziona",
+  "choicePicked1": "test-47-R",
+  "choiceNotPicked1": "test-47-L",
+  "choicePicked2": "test-15-R",
+  "choiceNotPicked2": "test-15-L",
+  "choicePicked3": "test-19-L",
+  "choiceNotPicked3": "test-19-R",
+  "choicePicked4": "test-2-R",
+  "choiceNotPicked4": "test-2-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-40-L",
+  "choiceNotPicked6": "test-40-R",
+  "choicePicked7": "test-51-R",
+  "choiceNotPicked7": "test-51-L",
+  "choicePicked8": "test-9-R",
+  "choiceNotPicked8": "test-9-L",
+  "choicePicked9": "test-14-R",
+  "choiceNotPicked9": "test-14-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "5 stars",
+  "choice_affect": "The more 5 stars win",
+  "average_ratings": "Important",
+  "useful_information": "Pictures",
+  "technical_issues": "No",
+  "time_taken": 108,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666618573222"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666618573222"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6356a1a90a723293af00e5c1"
+  },
+  "first_name": "Liad",
+  "last_name": "Telner",
+  "age": 27,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Ramat Gan",
+  "choicePicked1": "test-41-R",
+  "choiceNotPicked1": "test-41-L",
+  "choicePicked2": "test-37-R",
+  "choiceNotPicked2": "test-37-L",
+  "choicePicked3": "test-51-R",
+  "choiceNotPicked3": "test-51-L",
+  "choicePicked4": "test-45-R",
+  "choiceNotPicked4": "test-45-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-29-R",
+  "choiceNotPicked6": "test-29-L",
+  "choicePicked7": "test-31-L",
+  "choiceNotPicked7": "test-31-R",
+  "choicePicked8": "test-50-L",
+  "choiceNotPicked8": "test-50-R",
+  "choicePicked9": "test-54-L",
+  "choiceNotPicked9": "test-54-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "5 stars",
+  "choice_affect": "Very much",
+  "average_ratings": "Yes",
+  "useful_information": "Comments",
+  "technical_issues": "No",
+  "time_taken": 220,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666621865418"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666621865418"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6356a1a90a723293af00e5c3"
+  },
+  "first_name": "Liad",
+  "last_name": "Telner",
+  "age": 27,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Ramat Gan",
+  "choicePicked1": "test-41-R",
+  "choiceNotPicked1": "test-41-L",
+  "choicePicked2": "test-37-R",
+  "choiceNotPicked2": "test-37-L",
+  "choicePicked3": "test-51-R",
+  "choiceNotPicked3": "test-51-L",
+  "choicePicked4": "test-45-R",
+  "choiceNotPicked4": "test-45-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-29-R",
+  "choiceNotPicked6": "test-29-L",
+  "choicePicked7": "test-31-L",
+  "choiceNotPicked7": "test-31-R",
+  "choicePicked8": "test-50-L",
+  "choiceNotPicked8": "test-50-R",
+  "choicePicked9": "test-54-L",
+  "choiceNotPicked9": "test-54-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "5 stars",
+  "choice_affect": "Very much",
+  "average_ratings": "Yes",
+  "useful_information": "Comments",
+  "technical_issues": "No",
+  "time_taken": 220,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666621865458"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666621865458"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6357a964ef480fcb7d8054d4"
+  },
+  "first_name": "Adi",
+  "last_name": "Hasidi",
+  "age": 22,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Shoham",
+  "choicePicked1": "test-15-L",
+  "choiceNotPicked1": "test-15-R",
+  "choicePicked2": "test-46-L",
+  "choiceNotPicked2": "test-46-R",
+  "choicePicked3": "test-8-L",
+  "choiceNotPicked3": "test-8-R",
+  "choicePicked4": "test-42-L",
+  "choiceNotPicked4": "test-42-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-12-L",
+  "choiceNotPicked6": "test-12-R",
+  "choicePicked7": "test-17-R",
+  "choiceNotPicked7": "test-17-L",
+  "choicePicked8": "test-51-L",
+  "choiceNotPicked8": "test-51-R",
+  "choicePicked9": "test-32-L",
+  "choiceNotPicked9": "test-32-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The most 3 4 5 stars",
+  "choice_affect": "affected in choosing who is better",
+  "average_ratings": "important",
+  "useful_information": "average",
+  "technical_issues": "no",
+  "time_taken": 220,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666689380496"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666689380496"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63583f0432cf40872aca8fc5"
+  },
+  "first_name": "RON",
+  "last_name": "LITVAK",
+  "age": 26,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Tel Aviv",
+  "choicePicked1": "test-35-R",
+  "choiceNotPicked1": "test-35-L",
+  "choicePicked2": "test-1-R",
+  "choiceNotPicked2": "test-1-L",
+  "choicePicked3": "test-17-R",
+  "choiceNotPicked3": "test-17-L",
+  "choicePicked4": "test-40-R",
+  "choiceNotPicked4": "test-40-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "undefined-R",
+  "choiceNotPicked6": "undefined-L",
+  "choicePicked7": "test-37-R",
+  "choiceNotPicked7": "test-37-L",
+  "choicePicked8": "test-5-L",
+  "choiceNotPicked8": "test-5-R",
+  "choicePicked9": "test-8-L",
+  "choiceNotPicked9": "test-8-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Grouped aggregated 1-2 vs 4-5 stacks \nwent with the more dominant chart",
+  "choice_affect": "helped understand if the edge ratings (1,5) are credible - if it's all 4-5 and there is a small number of 1-2 - it's not credible and the product is likely good",
+  "average_ratings": "Usually I'd go with average but always  good to see what the bad reviews are mentioning",
+  "useful_information": "Content of reviews, physical attributes, the absolute number of reviews",
+  "technical_issues": "One chart was n/a",
+  "time_taken": 504,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666727684714"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666727684714"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6358401132cf40872aca8fc7"
+  },
+  "first_name": "SHELLY",
+  "last_name": "VILENKO",
+  "age": 26,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Tel Aviv",
+  "choicePicked1": "test-45-R",
+  "choiceNotPicked1": "test-45-L",
+  "choicePicked2": "test-8-L",
+  "choiceNotPicked2": "test-8-R",
+  "choicePicked3": "test-39-L",
+  "choiceNotPicked3": "test-39-R",
+  "choicePicked4": "test-21-R",
+  "choiceNotPicked4": "test-21-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-31-L",
+  "choiceNotPicked6": "test-31-R",
+  "choicePicked7": "test-29-R",
+  "choiceNotPicked7": "test-29-L",
+  "choicePicked8": "test-13-L",
+  "choiceNotPicked8": "test-13-R",
+  "choicePicked9": "test-18-R",
+  "choiceNotPicked9": "test-18-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Which one has less %s of bad reviews",
+  "choice_affect": "Helped me choose the version with the better reviews. 2 and 5 is likely better than 1 and 4",
+  "average_ratings": "Good to see and make a better educated decision. Would appreciate average as well",
+  "useful_information": "Total number of reviews, product visual appearance",
+  "technical_issues": "no",
+  "time_taken": 191,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666727953497"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666727953497"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6359184b5b09dbbda645ecc5"
+  },
+  "first_name": "Yossi",
+  "last_name": "Cohen",
+  "age": 43,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Ramat Gan",
+  "choicePicked1": "test-27-R",
+  "choiceNotPicked1": "test-27-L",
+  "choicePicked2": "test-44-R",
+  "choiceNotPicked2": "test-44-L",
+  "choicePicked3": "test-5-L",
+  "choiceNotPicked3": "test-5-R",
+  "choicePicked4": "test-34-R",
+  "choiceNotPicked4": "test-34-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-18-R",
+  "choiceNotPicked6": "test-18-L",
+  "choicePicked7": "test-41-L",
+  "choiceNotPicked7": "test-41-R",
+  "choicePicked8": "test-32-R",
+  "choiceNotPicked8": "test-32-L",
+  "choicePicked9": "test-10-R",
+  "choiceNotPicked9": "test-10-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Most positive rating",
+  "choice_affect": "Affected very much",
+  "average_ratings": "They are important",
+  "useful_information": "Comments from real people",
+  "technical_issues": "No",
+  "time_taken": 166,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666783307198"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666783307198"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63591ce65b09dbbda645ecc7"
+  },
+  "first_name": "Amit",
+  "last_name": "Cohen",
+  "age": 24,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Ramat Gan",
+  "choicePicked1": "test-45-R",
+  "choiceNotPicked1": "test-45-L",
+  "choicePicked2": "test-9-R",
+  "choiceNotPicked2": "test-9-L",
+  "choicePicked3": "test-12-L",
+  "choiceNotPicked3": "test-12-R",
+  "choicePicked4": "test-33-R",
+  "choiceNotPicked4": "test-33-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-2-L",
+  "choiceNotPicked6": "test-2-R",
+  "choicePicked7": "test-54-L",
+  "choiceNotPicked7": "test-54-R",
+  "choicePicked8": "test-50-L",
+  "choiceNotPicked8": "test-50-R",
+  "choicePicked9": "test-43-L",
+  "choiceNotPicked9": "test-43-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The more 3 4 5 stars",
+  "choice_affect": "That make my choice easier",
+  "average_ratings": "They are very important",
+  "useful_information": "How much people bought the product",
+  "technical_issues": "No",
+  "time_taken": 186,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666784486992"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666784486992"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63597e61c97bcdb69694de0a"
+  },
+  "first_name": "Meirav",
+  "last_name": "Cohen",
+  "age": 41,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Ramat Gan",
+  "choicePicked1": "test-10-R",
+  "choiceNotPicked1": "test-10-L",
+  "choicePicked2": "test-12-R",
+  "choiceNotPicked2": "test-12-L",
+  "choicePicked3": "test-7-L",
+  "choiceNotPicked3": "test-7-R",
+  "choicePicked4": "test-35-R",
+  "choiceNotPicked4": "test-35-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-20-R",
+  "choiceNotPicked6": "test-20-L",
+  "choicePicked7": "test-40-L",
+  "choiceNotPicked7": "test-40-R",
+  "choicePicked8": "test-27-R",
+  "choiceNotPicked8": "test-27-L",
+  "choicePicked9": "test-26-R",
+  "choiceNotPicked9": "test-26-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Best rating",
+  "choice_affect": "The distribution affected my choice by knowing whos better product",
+  "average_ratings": "The distribution important",
+  "useful_information": "Reviews",
+  "technical_issues": "No",
+  "time_taken": 399,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666809441210"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666809441210"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635a8e005cea112056984507"
+  },
+  "first_name": "Asi",
+  "last_name": "Yaakov",
+  "age": 33,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Bet Dagan",
+  "choicePicked1": "test-14-R",
+  "choiceNotPicked1": "test-14-L",
+  "choicePicked2": "test-19-R",
+  "choiceNotPicked2": "test-19-L",
+  "choicePicked3": "test-54-L",
+  "choiceNotPicked3": "test-54-R",
+  "choicePicked4": "test-43-R",
+  "choiceNotPicked4": "test-43-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-28-R",
+  "choiceNotPicked6": "test-28-L",
+  "choicePicked7": "test-50-L",
+  "choiceNotPicked7": "test-50-R",
+  "choicePicked8": "test-5-L",
+  "choiceNotPicked8": "test-5-R",
+  "choicePicked9": "test-51-L",
+  "choiceNotPicked9": "test-51-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Whatever seemed better",
+  "choice_affect": "It did not",
+  "average_ratings": "Average is better",
+  "useful_information": "Prices would help",
+  "technical_issues": "No",
+  "time_taken": 84,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666878976941"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666878976941"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635a901a5cea112056984509"
+  },
+  "first_name": "Adam",
+  "last_name": "Peretz",
+  "age": 27,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Southern District",
+  "city": "Ashkelon",
+  "choicePicked1": "test-31-L",
+  "choiceNotPicked1": "test-31-R",
+  "choicePicked2": "test-12-L",
+  "choiceNotPicked2": "test-12-R",
+  "choicePicked3": "test-30-R",
+  "choiceNotPicked3": "test-30-L",
+  "choicePicked4": "test-22-R",
+  "choiceNotPicked4": "test-22-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-33-R",
+  "choiceNotPicked6": "test-33-L",
+  "choicePicked7": "test-37-R",
+  "choiceNotPicked7": "test-37-L",
+  "choicePicked8": "test-40-R",
+  "choiceNotPicked8": "test-40-L",
+  "choicePicked9": "test-32-L",
+  "choiceNotPicked9": "test-32-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Rating in 4 and 5",
+  "choice_affect": "A lot",
+  "average_ratings": "distributions is important",
+  "useful_information": "Images",
+  "technical_issues": "No",
+  "time_taken": 256,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666879514505"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666879514505"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635a9eac1f126de4aee6ca99"
+  },
+  "first_name": "Orad",
+  "last_name": "Cohen",
+  "age": 27,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Southern District",
+  "city": "Rahat",
+  "choicePicked1": "test-51-R",
+  "choiceNotPicked1": "test-51-L",
+  "choicePicked2": "test-15-L",
+  "choiceNotPicked2": "test-15-R",
+  "choicePicked3": "test-12-L",
+  "choiceNotPicked3": "test-12-R",
+  "choicePicked4": "test-49-R",
+  "choiceNotPicked4": "test-49-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-48-R",
+  "choiceNotPicked6": "test-48-L",
+  "choicePicked7": "test-7-L",
+  "choiceNotPicked7": "test-7-R",
+  "choicePicked8": "test-44-R",
+  "choiceNotPicked8": "test-44-L",
+  "choicePicked9": "test-46-L",
+  "choiceNotPicked9": "test-46-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "a",
+  "choice_affect": "a",
+  "average_ratings": "a",
+  "useful_information": "a",
+  "technical_issues": "a",
+  "time_taken": 80,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666883244389"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666883244389"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635a9f501f126de4aee6ca9b"
+  },
+  "first_name": "Lital",
+  "last_name": "Halabi",
+  "age": 46,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Northern District",
+  "city": "Tamra",
+  "choicePicked1": "test-25-L",
+  "choiceNotPicked1": "test-25-R",
+  "choicePicked2": "test-40-R",
+  "choiceNotPicked2": "test-40-L",
+  "choicePicked3": "test-43-R",
+  "choiceNotPicked3": "test-43-L",
+  "choicePicked4": "test-1-R",
+  "choiceNotPicked4": "test-1-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-18-L",
+  "choiceNotPicked6": "test-18-R",
+  "choicePicked7": "test-45-R",
+  "choiceNotPicked7": "test-45-L",
+  "choicePicked8": "test-53-R",
+  "choiceNotPicked8": "test-53-L",
+  "choicePicked9": "test-46-R",
+  "choiceNotPicked9": "test-46-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Similarity",
+  "choice_affect": "Same as above",
+  "average_ratings": "This is enough",
+  "useful_information": "Pictures",
+  "technical_issues": "No",
+  "time_taken": 89,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666883408446"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666883408446"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aa38e03e2baf9f0d30894"
+  },
+  "first_name": "Adi",
+  "last_name": "Peled",
+  "age": 23,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Haifa District",
+  "city": "Qiryat Ata",
+  "choicePicked1": "test-7-L",
+  "choiceNotPicked1": "test-7-R",
+  "choicePicked2": "test-47-L",
+  "choiceNotPicked2": "test-47-R",
+  "choicePicked3": "test-12-L",
+  "choiceNotPicked3": "test-12-R",
+  "choicePicked4": "test-8-L",
+  "choiceNotPicked4": "test-8-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-21-R",
+  "choiceNotPicked6": "test-21-L",
+  "choicePicked7": "test-24-L",
+  "choiceNotPicked7": "test-24-R",
+  "choicePicked8": "test-34-R",
+  "choiceNotPicked8": "test-34-L",
+  "choicePicked9": "test-1-R",
+  "choiceNotPicked9": "test-1-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "No",
+  "choice_affect": "No",
+  "average_ratings": "No",
+  "useful_information": "No",
+  "technical_issues": "No",
+  "time_taken": 90,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666884494738"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666884494738"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aa4cbd0dfd87d282dffcb"
+  },
+  "first_name": "Lia",
+  "last_name": "Litvak",
+  "age": 27,
+  "gender": "female",
+  "country": "Hungary",
+  "state": "Budapest",
+  "city": "Budapest",
+  "choicePicked1": "test-51-L",
+  "choiceNotPicked1": "test-51-R",
+  "choicePicked2": "test-17-R",
+  "choiceNotPicked2": "test-17-L",
+  "choicePicked3": "test-41-R",
+  "choiceNotPicked3": "test-41-L",
+  "choicePicked4": "test-4-R",
+  "choiceNotPicked4": "test-4-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-18-R",
+  "choiceNotPicked6": "test-18-L",
+  "choicePicked7": "test-11-R",
+  "choiceNotPicked7": "test-11-L",
+  "choicePicked8": "test-14-L",
+  "choiceNotPicked8": "test-14-R",
+  "choicePicked9": "test-2-L",
+  "choiceNotPicked9": "test-2-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Just what i felt like",
+  "choice_affect": "See above",
+  "average_ratings": "Average is better",
+  "useful_information": "pictures would help",
+  "technical_issues": "No",
+  "time_taken": 95,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666884811051"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666884811051"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aa7f1d0dfd87d282dffcd"
+  },
+  "first_name": "Noam",
+  "last_name": "Levin",
+  "age": 26,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Rosh Ha‘Ayin",
+  "choicePicked1": "test-7-L",
+  "choiceNotPicked1": "test-7-R",
+  "choicePicked2": "test-51-L",
+  "choiceNotPicked2": "test-51-R",
+  "choicePicked3": "test-30-L",
+  "choiceNotPicked3": "test-30-R",
+  "choicePicked4": "test-47-L",
+  "choiceNotPicked4": "test-47-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-2-L",
+  "choiceNotPicked6": "test-2-R",
+  "choicePicked7": "test-20-R",
+  "choiceNotPicked7": "test-20-L",
+  "choicePicked8": "test-46-R",
+  "choiceNotPicked8": "test-46-L",
+  "choicePicked9": "test-32-L",
+  "choiceNotPicked9": "test-32-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The better stars i thought that good",
+  "choice_affect": "very",
+  "average_ratings": "i could settle for average",
+  "useful_information": "companys of the products",
+  "technical_issues": "no",
+  "time_taken": 107,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666885617601"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666885617601"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aa869d0dfd87d282dffcf"
+  },
+  "first_name": "Moran",
+  "last_name": "Lahav",
+  "age": 33,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Kfar Saba",
+  "choicePicked1": "test-15-R",
+  "choiceNotPicked1": "test-15-L",
+  "choicePicked2": "test-7-L",
+  "choiceNotPicked2": "test-7-R",
+  "choicePicked3": "test-9-R",
+  "choiceNotPicked3": "test-9-L",
+  "choicePicked4": "test-42-R",
+  "choiceNotPicked4": "test-42-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-12-L",
+  "choiceNotPicked6": "test-12-R",
+  "choicePicked7": "test-32-L",
+  "choiceNotPicked7": "test-32-R",
+  "choicePicked8": "test-5-L",
+  "choiceNotPicked8": "test-5-R",
+  "choicePicked9": "test-26-R",
+  "choiceNotPicked9": "test-26-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Where there was a consternation of higher ratings",
+  "choice_affect": "the only information I had to choose",
+  "average_ratings": "Average is more clear",
+  "useful_information": "I do not know",
+  "technical_issues": "No",
+  "time_taken": 108,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666885737358"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666885737358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aa8f0d0dfd87d282dffd1"
+  },
+  "first_name": "Arza",
+  "last_name": "Rosset",
+  "age": 29,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Southern District",
+  "city": "Beersheba",
+  "choicePicked1": "test-38-R",
+  "choiceNotPicked1": "test-38-L",
+  "choicePicked2": "test-24-L",
+  "choiceNotPicked2": "test-24-R",
+  "choicePicked3": "test-30-R",
+  "choiceNotPicked3": "test-30-L",
+  "choicePicked4": "test-34-R",
+  "choiceNotPicked4": "test-34-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-4-L",
+  "choiceNotPicked6": "test-4-R",
+  "choicePicked7": "test-16-L",
+  "choiceNotPicked7": "test-16-R",
+  "choicePicked8": "test-42-L",
+  "choiceNotPicked8": "test-42-R",
+  "choicePicked9": "test-21-R",
+  "choiceNotPicked9": "test-21-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "what felt with higher scores",
+  "choice_affect": "same answer as above",
+  "average_ratings": "ratings are very omportant",
+  "useful_information": "reviews of the product",
+  "technical_issues": "no",
+  "time_taken": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666885872825"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666885872825"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aa970d0dfd87d282dffd3"
+  },
+  "first_name": "Dan",
+  "last_name": "Rosental",
+  "age": 30,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Tel Aviv District",
+  "city": "Tel Aviv",
+  "choicePicked1": "test-33-L",
+  "choiceNotPicked1": "test-33-R",
+  "choicePicked2": "test-44-R",
+  "choiceNotPicked2": "test-44-L",
+  "choicePicked3": "test-4-L",
+  "choiceNotPicked3": "test-4-R",
+  "choicePicked4": "test-15-R",
+  "choiceNotPicked4": "test-15-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-37-L",
+  "choiceNotPicked6": "test-37-R",
+  "choicePicked7": "test-19-R",
+  "choiceNotPicked7": "test-19-L",
+  "choicePicked8": "test-3-L",
+  "choiceNotPicked8": "test-3-R",
+  "choicePicked9": "test-30-R",
+  "choiceNotPicked9": "test-30-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I chose the ones with higher clear 4 or 5 start columns",
+  "choice_affect": "The only information I got on the choice",
+  "average_ratings": "Yes the average could be deceiving.",
+  "useful_information": "Pictures of the items",
+  "technical_issues": "no",
+  "time_taken": 118,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886000988"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886000988"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aa9afd0dfd87d282dffd5"
+  },
+  "first_name": "Noa",
+  "last_name": "Haviv",
+  "age": 23,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Rosh Ha‘Ayin",
+  "choicePicked1": "test-21-R",
+  "choiceNotPicked1": "test-21-L",
+  "choicePicked2": "test-8-L",
+  "choiceNotPicked2": "test-8-R",
+  "choicePicked3": "test-14-L",
+  "choiceNotPicked3": "test-14-R",
+  "choicePicked4": "test-6-R",
+  "choiceNotPicked4": "test-6-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-37-L",
+  "choiceNotPicked6": "test-37-R",
+  "choicePicked7": "test-51-L",
+  "choiceNotPicked7": "test-51-R",
+  "choicePicked8": "test-49-L",
+  "choiceNotPicked8": "test-49-R",
+  "choicePicked9": "test-10-R",
+  "choiceNotPicked9": "test-10-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "less 1 stars",
+  "choice_affect": "affected  a lot",
+  "average_ratings": "i think they are important",
+  "useful_information": "country of the product",
+  "technical_issues": "no",
+  "time_taken": 54,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886063206"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886063206"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aa9d2d0dfd87d282dffd7"
+  },
+  "first_name": "Efrat",
+  "last_name": "Levi",
+  "age": 42,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Shoham",
+  "choicePicked1": "test-32-L",
+  "choiceNotPicked1": "test-32-R",
+  "choicePicked2": "test-37-R",
+  "choiceNotPicked2": "test-37-L",
+  "choicePicked3": "test-54-L",
+  "choiceNotPicked3": "test-54-R",
+  "choicePicked4": "test-14-R",
+  "choiceNotPicked4": "test-14-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-50-L",
+  "choiceNotPicked6": "test-50-R",
+  "choicePicked7": "test-15-L",
+  "choiceNotPicked7": "test-15-R",
+  "choicePicked8": "test-34-R",
+  "choiceNotPicked8": "test-34-L",
+  "choicePicked9": "test-30-L",
+  "choiceNotPicked9": "test-30-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I do no understand the question",
+  "choice_affect": "I do no understand the question",
+  "average_ratings": "average is good enough",
+  "useful_information": "Dont know",
+  "technical_issues": "no",
+  "time_taken": 89,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886098372"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886098372"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aaa53d0dfd87d282dffd9"
+  },
+  "first_name": "Einav",
+  "last_name": "Shenkar",
+  "age": 28,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Ra'anana",
+  "choicePicked1": "test-51-L",
+  "choiceNotPicked1": "test-51-R",
+  "choicePicked2": "test-1-R",
+  "choiceNotPicked2": "test-1-L",
+  "choicePicked3": "test-16-L",
+  "choiceNotPicked3": "test-16-R",
+  "choicePicked4": "test-4-L",
+  "choiceNotPicked4": "test-4-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-35-L",
+  "choiceNotPicked6": "test-35-R",
+  "choicePicked7": "test-31-L",
+  "choiceNotPicked7": "test-31-R",
+  "choicePicked8": "test-7-L",
+  "choiceNotPicked8": "test-7-R",
+  "choicePicked9": "test-48-R",
+  "choiceNotPicked9": "test-48-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Higher condensation of values in the high number columns.",
+  "choice_affect": "same answer as 1.",
+  "average_ratings": "Yes the average is not a solid parameter",
+  "useful_information": "the average would help",
+  "technical_issues": "no",
+  "time_taken": 122,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886227406"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886227406"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aaabed0dfd87d282dffdb"
+  },
+  "first_name": "estelle",
+  "last_name": "mayer",
+  "age": 26,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Northern District",
+  "city": "maalot Tarshīhā",
+  "choicePicked1": "test-29-R",
+  "choiceNotPicked1": "test-29-L",
+  "choicePicked2": "test-13-L",
+  "choiceNotPicked2": "test-13-R",
+  "choicePicked3": "test-37-L",
+  "choiceNotPicked3": "test-37-R",
+  "choicePicked4": "test-8-L",
+  "choiceNotPicked4": "test-8-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-53-R",
+  "choiceNotPicked6": "test-53-L",
+  "choicePicked7": "test-4-L",
+  "choiceNotPicked7": "test-4-R",
+  "choicePicked8": "test-20-R",
+  "choiceNotPicked8": "test-20-L",
+  "choicePicked9": "test-47-L",
+  "choiceNotPicked9": "test-47-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I dont know",
+  "choice_affect": "I dont know",
+  "average_ratings": "no",
+  "useful_information": "pictures of the stuff",
+  "technical_issues": "no",
+  "time_taken": 3,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886334468"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886334468"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aab1dd0dfd87d282dffdd"
+  },
+  "first_name": "Gleb",
+  "last_name": "Gavrilov",
+  "age": 31,
+  "gender": "male",
+  "country": "Afghanistan",
+  "state": "Badakhshan",
+  "city": "Ashkāsham",
+  "choicePicked1": "test-11-R",
+  "choiceNotPicked1": "test-11-L",
+  "choicePicked2": "test-20-R",
+  "choiceNotPicked2": "test-20-L",
+  "choicePicked3": "test-43-R",
+  "choiceNotPicked3": "test-43-L",
+  "choicePicked4": "test-33-R",
+  "choiceNotPicked4": "test-33-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-41-L",
+  "choiceNotPicked6": "test-41-R",
+  "choicePicked7": "test-45-R",
+  "choiceNotPicked7": "test-45-L",
+  "choicePicked8": "test-38-L",
+  "choiceNotPicked8": "test-38-R",
+  "choicePicked9": "test-54-L",
+  "choiceNotPicked9": "test-54-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I chose the ones with higher rating in my eyes",
+  "choice_affect": "The ones with a lot of 1 star reviews I ruled out",
+  "average_ratings": "Yes",
+  "useful_information": "pictures",
+  "technical_issues": "no",
+  "time_taken": 85,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886429570"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886429570"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aab71d0dfd87d282dffdf"
+  },
+  "first_name": "hadar",
+  "last_name": "kara",
+  "age": 30,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Jerusalem District",
+  "city": "Jerusalem",
+  "choicePicked1": "test-48-R",
+  "choiceNotPicked1": "test-48-L",
+  "choicePicked2": "test-11-R",
+  "choiceNotPicked2": "test-11-L",
+  "choicePicked3": "test-16-L",
+  "choiceNotPicked3": "test-16-R",
+  "choicePicked4": "test-4-L",
+  "choiceNotPicked4": "test-4-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-40-R",
+  "choiceNotPicked6": "test-40-L",
+  "choicePicked7": "test-35-R",
+  "choiceNotPicked7": "test-35-L",
+  "choicePicked8": "test-20-R",
+  "choiceNotPicked8": "test-20-L",
+  "choicePicked9": "test-2-L",
+  "choiceNotPicked9": "test-2-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "what looked better",
+  "choice_affect": "same",
+  "average_ratings": "yes",
+  "useful_information": "nothing",
+  "technical_issues": "no",
+  "time_taken": 75,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886513963"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886513963"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aabbfd0dfd87d282dffe1"
+  },
+  "first_name": "Adva",
+  "last_name": "Terry",
+  "age": 34,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Rosh Ha‘Ayin",
+  "choicePicked1": "test-17-R",
+  "choiceNotPicked1": "test-17-L",
+  "choicePicked2": "test-53-R",
+  "choiceNotPicked2": "test-53-L",
+  "choicePicked3": "test-27-R",
+  "choiceNotPicked3": "test-27-L",
+  "choicePicked4": "test-34-L",
+  "choiceNotPicked4": "test-34-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-51-L",
+  "choiceNotPicked6": "test-51-R",
+  "choicePicked7": "test-35-R",
+  "choiceNotPicked7": "test-35-L",
+  "choicePicked8": "test-25-R",
+  "choiceNotPicked8": "test-25-L",
+  "choicePicked9": "test-15-L",
+  "choiceNotPicked9": "test-15-R",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "To choose the best product that have the best rating",
+  "choice_affect": "Its affected by that i knew whos better",
+  "average_ratings": "Yes, the distributions important",
+  "useful_information": "Images, whos the producer",
+  "technical_issues": "No",
+  "time_taken": 66,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886591206"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886591206"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aabe8d0dfd87d282dffe3"
+  },
+  "first_name": "Jordan",
+  "last_name": "Katz",
+  "age": 33,
+  "gender": "female",
+  "country": "Germany",
+  "state": "Bavaria",
+  "city": "Munich",
+  "choicePicked1": "test-14-R",
+  "choiceNotPicked1": "test-14-L",
+  "choicePicked2": "test-1-R",
+  "choiceNotPicked2": "test-1-L",
+  "choicePicked3": "test-23-R",
+  "choiceNotPicked3": "test-23-L",
+  "choicePicked4": "test-17-R",
+  "choiceNotPicked4": "test-17-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-28-R",
+  "choiceNotPicked6": "test-28-L",
+  "choicePicked7": "test-2-L",
+  "choiceNotPicked7": "test-2-R",
+  "choicePicked8": "test-40-R",
+  "choiceNotPicked8": "test-40-L",
+  "choicePicked9": "test-44-R",
+  "choiceNotPicked9": "test-44-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The percentage is clearly telling which item is better",
+  "choice_affect": "The ones with a higher difference between them seemed suspicious",
+  "average_ratings": "Yes but the average should also display",
+  "useful_information": "pictures",
+  "technical_issues": "no",
+  "time_taken": 106,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886632009"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886632009"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aac4cd0dfd87d282dffe5"
+  },
+  "first_name": "Juan",
+  "last_name": "Susnisky",
+  "age": 84,
+  "gender": "male",
+  "country": "Argentina",
+  "state": "Buenos Aires Province",
+  "city": "Buenos Aires",
+  "choicePicked1": "test-25-L",
+  "choiceNotPicked1": "test-25-R",
+  "choicePicked2": "test-14-R",
+  "choiceNotPicked2": "test-14-L",
+  "choicePicked3": "test-39-R",
+  "choiceNotPicked3": "test-39-L",
+  "choicePicked4": "test-52-R",
+  "choiceNotPicked4": "test-52-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-8-L",
+  "choiceNotPicked6": "test-8-R",
+  "choicePicked7": "test-46-R",
+  "choiceNotPicked7": "test-46-L",
+  "choicePicked8": "test-45-R",
+  "choiceNotPicked8": "test-45-L",
+  "choicePicked9": "test-28-R",
+  "choiceNotPicked9": "test-28-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "no se de que se trata",
+  "choice_affect": "esto es la misma pregunta",
+  "average_ratings": "para mi es igual",
+  "useful_information": "no se",
+  "technical_issues": "no",
+  "time_taken": 93,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886732705"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886732705"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aacddd0dfd87d282dffe7"
+  },
+  "first_name": "Liel",
+  "last_name": "Etinzon",
+  "age": 27,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Southern District",
+  "city": "Ashkelon",
+  "choicePicked1": "test-8-L",
+  "choiceNotPicked1": "test-8-R",
+  "choicePicked2": "test-10-L",
+  "choiceNotPicked2": "test-10-R",
+  "choicePicked3": "test-3-L",
+  "choiceNotPicked3": "test-3-R",
+  "choicePicked4": "test-18-R",
+  "choiceNotPicked4": "test-18-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-32-R",
+  "choiceNotPicked6": "test-32-L",
+  "choicePicked7": "test-19-R",
+  "choiceNotPicked7": "test-19-L",
+  "choicePicked8": "test-24-L",
+  "choiceNotPicked8": "test-24-R",
+  "choicePicked9": "test-17-R",
+  "choiceNotPicked9": "test-17-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "בחרתי מה שהיה נראה יותר טוב",
+  "choice_affect": "ברגע שהיו הרבה הבדלים בין הדירוגים לא בחרתי בזה",
+  "average_ratings": "ממוצע יעזור למרות שאפשר לחשב אותו מהגרפים אם יש מספיק זמן",
+  "useful_information": "תמונות של המוצרים, יכול להיות שלמשהו יש דירוג גבוה אבל זה מוצר הרבה יותר זול ויהיה אפשר לראות את זה",
+  "technical_issues": "לא",
+  "time_taken": 129,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666886877576"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666886877576"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aad7fd0dfd87d282dffe9"
+  },
+  "first_name": "Lorena",
+  "last_name": "Orellano",
+  "age": 36,
+  "gender": "female",
+  "country": "Argentina",
+  "state": "Buenos Aires Province",
+  "city": "Buenos Aires",
+  "choicePicked1": "test-4-L",
+  "choiceNotPicked1": "test-4-R",
+  "choicePicked2": "test-13-L",
+  "choiceNotPicked2": "test-13-R",
+  "choicePicked3": "test-27-R",
+  "choiceNotPicked3": "test-27-L",
+  "choicePicked4": "test-38-L",
+  "choiceNotPicked4": "test-38-R",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-45-R",
+  "choiceNotPicked6": "test-45-L",
+  "choicePicked7": "test-9-R",
+  "choiceNotPicked7": "test-9-L",
+  "choicePicked8": "test-16-L",
+  "choiceNotPicked8": "test-16-R",
+  "choicePicked9": "test-46-R",
+  "choiceNotPicked9": "test-46-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I put the ones that are better",
+  "choice_affect": "the same answer",
+  "average_ratings": "no",
+  "useful_information": "nothing",
+  "technical_issues": "no",
+  "time_taken": 80,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666887039930"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666887039930"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aae24d0dfd87d282dffeb"
+  },
+  "first_name": "Maor",
+  "last_name": "Descalu",
+  "age": 32,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Ra'anana",
+  "choicePicked1": "test-12-R",
+  "choiceNotPicked1": "test-12-L",
+  "choicePicked2": "test-47-L",
+  "choiceNotPicked2": "test-47-R",
+  "choicePicked3": "test-21-R",
+  "choiceNotPicked3": "test-21-L",
+  "choicePicked4": "test-44-R",
+  "choiceNotPicked4": "test-44-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-23-R",
+  "choiceNotPicked6": "test-23-L",
+  "choicePicked7": "test-32-R",
+  "choiceNotPicked7": "test-32-L",
+  "choicePicked8": "test-14-L",
+  "choiceNotPicked8": "test-14-R",
+  "choicePicked9": "test-15-R",
+  "choiceNotPicked9": "test-15-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The ones that are better",
+  "choice_affect": "the only information to choose",
+  "average_ratings": "yes its important",
+  "useful_information": "nothing",
+  "technical_issues": "no",
+  "time_taken": 17,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666887204039"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666887204039"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aaefad0dfd87d282dffed"
+  },
+  "first_name": "May",
+  "last_name": "Sahar",
+  "age": 22,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Bet Dagan",
+  "choicePicked1": "test-27-R",
+  "choiceNotPicked1": "test-27-L",
+  "choicePicked2": "test-42-R",
+  "choiceNotPicked2": "test-42-L",
+  "choicePicked3": "test-8-L",
+  "choiceNotPicked3": "test-8-R",
+  "choicePicked4": "test-44-R",
+  "choiceNotPicked4": "test-44-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-40-R",
+  "choiceNotPicked6": "test-40-L",
+  "choicePicked7": "test-45-R",
+  "choiceNotPicked7": "test-45-L",
+  "choicePicked8": "test-24-L",
+  "choiceNotPicked8": "test-24-R",
+  "choicePicked9": "test-53-R",
+  "choiceNotPicked9": "test-53-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "The ones that were more consistent were easier to choose.",
+  "choice_affect": "Very similar ones did not matter",
+  "average_ratings": "Average is better",
+  "useful_information": "no",
+  "technical_issues": "no",
+  "time_taken": 73,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666887418414"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666887418414"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aaf11d0dfd87d282dffef"
+  },
+  "first_name": "Eyal",
+  "last_name": "Hasidi",
+  "age": 30,
+  "gender": "male",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Shoham",
+  "choicePicked1": "test-1-R",
+  "choiceNotPicked1": "test-1-L",
+  "choicePicked2": "test-2-L",
+  "choiceNotPicked2": "test-2-R",
+  "choicePicked3": "test-13-L",
+  "choiceNotPicked3": "test-13-R",
+  "choicePicked4": "test-10-R",
+  "choiceNotPicked4": "test-10-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-44-R",
+  "choiceNotPicked6": "test-44-L",
+  "choicePicked7": "test-52-R",
+  "choiceNotPicked7": "test-52-L",
+  "choicePicked8": "test-12-L",
+  "choiceNotPicked8": "test-12-R",
+  "choicePicked9": "test-27-R",
+  "choiceNotPicked9": "test-27-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "Better 5 stars",
+  "choice_affect": "It made me consider not only 5 stars but 2 3 and 4 stars",
+  "average_ratings": "I prefer both",
+  "useful_information": "Images of the products",
+  "technical_issues": "No",
+  "time_taken": 14,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666887441957"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666887441957"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635aaf5fd0dfd87d282dfff1"
+  },
+  "first_name": "Naama",
+  "last_name": "Reshef",
+  "age": 30,
+  "gender": "female",
+  "country": "Israel",
+  "state": "Central District",
+  "city": "Ra'anana",
+  "choicePicked1": "test-16-L",
+  "choiceNotPicked1": "test-16-R",
+  "choicePicked2": "test-2-L",
+  "choiceNotPicked2": "test-2-R",
+  "choicePicked3": "test-7-L",
+  "choiceNotPicked3": "test-7-R",
+  "choicePicked4": "test-37-R",
+  "choiceNotPicked4": "test-37-L",
+  "choicePicked5": "correct",
+  "choiceNotPicked5": "wrong",
+  "choicePicked6": "test-10-R",
+  "choiceNotPicked6": "test-10-L",
+  "choicePicked7": "test-22-R",
+  "choiceNotPicked7": "test-22-L",
+  "choicePicked8": "test-31-L",
+  "choiceNotPicked8": "test-31-R",
+  "choicePicked9": "test-4-R",
+  "choiceNotPicked9": "test-4-L",
+  "choicePicked10": "correct",
+  "choiceNotPicked10": "wrong",
+  "considerations": "I dont understant the question",
+  "choice_affect": "I dont understant the question",
+  "average_ratings": "I dont understant the question",
+  "useful_information": "nothing",
+  "technical_issues": "no",
+  "time_taken": 91,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666887519318"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666887519318"
+    }
+  },
+  "__v": 0
+}]
